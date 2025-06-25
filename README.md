@@ -1,1 +1,1 @@
-# Sitecore_Headless_Poc
+Refer the folder `tourism-website-html` for sample HTML template for the POC.
